@@ -1,0 +1,7 @@
+,Accuracy,F1 (macro),F1 (weighted)
+"Naive Bayes
+(BoW)",1.0,1.0,1.0
+"Logistic Reg
+(TF-IDF)",1.0,1.0,1.0
+"LinearSVC
+(TF-IDF)",1.0,1.0,1.0
