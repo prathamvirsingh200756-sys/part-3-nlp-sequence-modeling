@@ -1,0 +1,7 @@
+Sample Predictions (Logistic Regression / TF-IDF)
+------------------------------------------------------------
+[POSITIVE]  The service was absolutely fantastic, I'm so happy!
+[NEGATIVE]  My order hasn't arrived yet. This is completely unacceptable.
+[NEUTRAL ]  I need to know the status of my ticket.
+[POSITIVE]  Great support team, resolved my issue in minutes!
+[NEGATIVE]  Still waiting for a refund after two weeks. Very disappointed.
